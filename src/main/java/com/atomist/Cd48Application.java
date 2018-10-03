@@ -1,3 +1,5 @@
+// Life is psychologically difficult for everybody.
+
 // It’s only a thought, and a thought can be changed.
 
 // No need to say 'I can do it.' You ARE doing it!
