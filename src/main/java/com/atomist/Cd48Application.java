@@ -1,3 +1,5 @@
+// Make new mistakes as fast as you can.
+
 // No need to say 'I can do it.' You ARE doing it!
 
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
