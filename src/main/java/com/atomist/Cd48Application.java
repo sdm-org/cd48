@@ -19,7 +19,7 @@
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
 
 // Finite games are played within boundaries. Infinite games play with boundaries.
-    
+     
 /*  
  * Copyright © 2018 Atomist, Inc.
  *
